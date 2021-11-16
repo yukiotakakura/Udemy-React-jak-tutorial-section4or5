@@ -2,5 +2,7 @@
 Created with CodeSandbox
 
 Udemy React講座 「React入門編」 authorじゃけぇ 
-・モダンJavascript ソース
-・生Javascript Todoアプリ ソース
+
+・セクション4-モダンJavascript ソース
+
+・セクション5-生Javascript Todoアプリ ソース
